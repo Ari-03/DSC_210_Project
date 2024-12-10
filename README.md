@@ -46,8 +46,8 @@ The output should include something like `envs/dsc210/bin/pip`
 #### Using VS Code
 It is recommended to use Visual Studio Code (VS Code) to run the Jupyter Notebook. Follow these steps:
 
-1. Install the Python and Jupyter extensions in VS Code.
-2. Open the notebook 210Project_image_compression.ipynb in VS Code.
+1. Install the Python and Jupyter extensions in VS Code by Microsoft.
+2. Open the notebook `Image_Compression.ipynb` in VS Code.
 3. Ensure you are using the correct kernel:
     - Click the Select Kernel button on the top right.
     - Click on Python Environment.
