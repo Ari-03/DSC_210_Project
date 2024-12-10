@@ -60,6 +60,6 @@ It is recommended to use Visual Studio Code (VS Code) to run the Jupyter Noteboo
     - Click the `Select Kernel` button on the top right.
     - Click on `Python Environment`. Note: If you do not see `Python Environment` and instead see an option to install the `Python` and `Jupyter` extensions, please do so.
     - Select `dsc210`.
-    - If a pop up appears to install the ipykernel, please do so and continue.
+    - If a pop up appears to install the `ipykernel`, please do so and continue.
 4. Click on Run All Cells on the top left.
 
